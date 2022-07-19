@@ -2,7 +2,7 @@
 weasGMD Bespredelnik
 
 Mods:
-  NoClip
+  NoClip\n
   NoSpikes
   NoHitbox
   NoSolids
