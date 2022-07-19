@@ -1,7 +1,7 @@
 # wGMDB
 weasGMD Bespredelnik
 
-## Mods:
+# Mods:
   + Player mods:
     - NoClip
     - NoSpikes
@@ -28,6 +28,32 @@ weasGMD Bespredelnik
     - No Respwan Blink
     - Practice Pulse
     - Solid Wave Trail
-    - Trail Always off/on
+    - Trail Always off / on
+  + Bypass:
+    - Song Bypass
+    - Icons / colors
+    - Text Length
+    - Character Filter
+    - Slider Limit
+    - Main Levels
+    - Guard Vault
+    - Keymaster Vault
+    - Basement Key Bypass
+    - Challenge Bypass
+    - Treasure Room
+    - Potbar Shop
+    - Scratch Shop
+    - Free Shop Items
+    - Gatekeeper Vault
+    - Backup Stars Limit
+    - Unblock Hack
+  + Global mods:
+    - Force Visibility
+    - No Rotation
+    - Free Window Resize
+    - Safe Mode
+  + SpeedHack
+  + Custom Transitions
 
-special thanks to Absolute
+
+> special thanks to Absolute <3
