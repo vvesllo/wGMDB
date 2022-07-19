@@ -1,8 +1,8 @@
 # wGMDB
 weasGMD Bespredelnik
 
-Mods:
-  NoClip\n
+Mods:<br>
+  NoClip<br>
   NoSpikes
   NoHitbox
   NoSolids
